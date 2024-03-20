@@ -21,7 +21,6 @@
   justify-content: center;
   align-items: flex-start;
   width: 100%;
-
 }
 .headline h1 {
   font-size: 5rem;
@@ -75,6 +74,23 @@
   .mainContainer {
     flex-direction: column;
     width: 100%;
+  }
+
+  .headline h1 {
+    font-size: 3rem;
+  }
+
+  .headline .skills {
+    font-size: 1rem;
+  }
+
+  .illustration {
+    margin-top: 4rem;
+  }
+
+  .label__container {
+    right: 0;
+    bottom: 0;
   }
 }
 
